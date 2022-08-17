@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/OpenSans-Normal",
+        "bold": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/OpenSans-Bold",
+        "italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/Segoe-Normal",
+        "bold": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/Segoe-Bold",
+        "italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/currencies",
+        "bold": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/currencies",
+        "italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/currencies",
+        "bold_italic": "C:\/wamp64\/www\/MHD\/wp-content\/uploads\/wpo_wcpdf_ffac6ce02debf3121589d0fce6d5b602\/fonts\/currencies"
+    }
+}

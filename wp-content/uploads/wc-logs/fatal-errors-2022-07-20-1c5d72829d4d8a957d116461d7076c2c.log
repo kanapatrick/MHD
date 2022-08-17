@@ -1,0 +1,8 @@
+2022-07-20T13:32:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\MHD\wp-content\plugins\wordpress-seo\src\surfaces\open-graph-helpers-surface.php à la ligne 15
+
+2022-07-20T13:32:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\MHD\wp-includes\class-wp-query.php à la ligne 772
+
+2022-07-20T13:32:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\MHD\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php à la ligne 713
+
+2022-07-20T13:32:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\MHD\wp-content\plugins\wordpress-seo\src\routes\wincher-route.php à la ligne 16
+
